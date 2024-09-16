@@ -1,6 +1,5 @@
 # CIFAR10-optimal-and-accurate-solutions
 
-# README
 
 ## Overview
 
