@@ -1,6 +1,7 @@
 # CIFAR10-optimal-and-accurate-solutions
 ![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
 ![Pytorch](https://img.shields.io/badge/PyTorch-orange)
+![Transformers](https://img.shields.io/badge/Transformers-yellow)
 
 ## Overview
 
