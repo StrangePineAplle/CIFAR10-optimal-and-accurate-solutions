@@ -14,7 +14,7 @@ This repository contains two Jupyter notebooks that provide solutions for the CI
 
 2. **Vision Transformer (ViT)**
    - **Description**: Vision Transformer leverages self-attention mechanisms to process images. It has shown superior performance on various image classification tasks, especially when trained on large datasets.
-   - **Accuracy**: Achieves an impressive **97%** accuracy on the CIFAR-10 dataset.
+   - **Accuracy**: Achieves an impressive **97.9%** accuracy on the CIFAR-10 dataset.
    - **Model Weight**: Heavier than ResNet-9, requiring more computational resources but providing significantly better accuracy.
 
 ## Comparison
