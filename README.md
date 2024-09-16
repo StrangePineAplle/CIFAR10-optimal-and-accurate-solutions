@@ -21,8 +21,8 @@ This repository contains two Jupyter notebooks that provide solutions for the CI
 
 | Model       | Accuracy | Model Weight       |
 |-------------|----------|--------------------|
-| ResNet-9   | 92.5%    | Lightweight         |
-| ViT        | 97%      | Heavier             |
+| ResNet-9   | 0.92    | Lightweight         |
+| ViT        | 0.979      | Heavier             |
 
 ### Key Differences
 
